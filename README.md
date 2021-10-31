@@ -1,2 +1,4 @@
 # TIPE-DATA-VARIABEL-DAN-OPERATOR
 
+    b gnhgnhg
+    
