@@ -1,4 +1,3 @@
 # TIPE-DATA-VARIABEL-DAN-OPERATOR
 
-    b gnhgnhg
-    
+![img](gambar/Flowchart.png)
